@@ -1,0 +1,14 @@
+{
+  "name": "exchange-rate_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "grantge",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
